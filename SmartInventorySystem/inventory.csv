@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Quantity,Reorder_Level,Supplier,Purchase_Price,Selling_Price,Stock_Entry_Date,Units_Sold
+P001,Laptop,Electronics,25,10,TechSupplier,35000,45000,2026-01-01,120
+P002,Mouse,Electronics,8,15,TechSupplier,300,500,2026-01-02,200
+P003,Keyboard,Electronics,40,10,TechSupplier,700,1200,2026-01-03,150
+P004,Monitor,Electronics,5,10,DisplaySupplier,8000,12000,2026-01-04,90
+P005,USB Cable,Accessories,100,20,CableSupplier,100,250,2026-01-05,300
+P006,Headphones,Accessories,12,15,AudioSupplier,900,1500,2026-01-06,180
+P007,Office Chair,Furniture,20,5,FurnitureSupplier,4000,6500,2026-01-07,60
+P008,Desk,Furniture,0,5,FurnitureSupplier,6000,9000,2026-01-08,40
+P009,Printer,Electronics,15,5,PrintSupplier,7000,11000,2026-01-09,75
+P010,Notebook,Stationery,150,30,StationerySupplier,30,60,2026-01-10,400
+P011,Pen,Stationery,200,50,StationerySupplier,5,10,2026-01-11,500
+P012,Smartphone,Electronics,10,8,MobileSupplier,15000,20000,2026-01-12,100
+P013,Power Bank,Accessories,6,10,MobileSupplier,800,1300,2026-01-13,150
+P014,Table,Furniture,10,5,FurnitureSupplier,5000,8000,2026-01-14,35
+P015,Webcam,Electronics,18,8,TechSupplier,1500,2500,2026-01-15,85
